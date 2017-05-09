@@ -1,0 +1,14 @@
+--------TUTORIAL GITHUB-------------
+
+1) Criar conta no site github.com
+2) Configure o git com o nome e o email:
+	git config --global user.name "NOME"
+	git config --global user.email "email@email.com"
+3) Clone seu diretório onde irá salvar os arquivos:
+	git clone https://github.com/user/nomedapasta.git
+
+Comandos:
+	git add "Arquivos": Envia seus arquivos para uma área para, então, serem enviados ao repositório.
+	git commit -m "comentário": Cria uma revisão da área que pode ser vista por todos.
+	git push: Publica todos os commits para o github.
+	git status: Exibe os status do repositório atual.
